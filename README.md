@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khalileldaou
 - 👀 I’m interested in software development & data science
-- 🌱 I’m currently learning a data science master's student at the University of Surrey
-- 💞️ I’m looking to collaborate on kaggle competition
+- 🌱 I’m currently a data science master's student at the University of Surrey
+- 💞️ I’m looking to collaborate on kaggle competitions
 - 📫 How to reach me daoukhalil@hotmail.com
 
 <!---
